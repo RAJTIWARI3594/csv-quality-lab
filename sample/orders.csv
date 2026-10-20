@@ -1,0 +1,5 @@
+order_id,date,amount,city
+SYN-001,2026-01-01,120, North 
+SYN-002,2026-01-02,,South
+SYN-002,2026-01-03,90,West
+SYN-004,invalid,abc,=SUM(A1:A2)
